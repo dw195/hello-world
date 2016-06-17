@@ -1,5 +1,10 @@
-# Object file
-*.o
+# Hello World
 
-# Ada Library Information
-*.ali
+# Is this even python?
+
+# What even is a git ignore?
+
+for i in range(0,20):
+  print("Hello World")
+  print(i)
+  
